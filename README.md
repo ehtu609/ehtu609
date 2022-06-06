@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ehtesham Ahmed a computer Science Graduate in Computer Science and Engineering 2018 from SIT(WBUT).
+- 👋 Hi, I’m Ehtesham Ahmed a Btech Graduate in Computer Science and Engineering 2018 from SIT(WBUT).
 - 👀 I’m interested in Data Science and Data Engineering as its clearly the fuel for the upcoming revolution.
 - 💞️ I’m looking to collaborate on Data related Questions and interesting insights for any data related project.
 - 📫 How to reach me ...
