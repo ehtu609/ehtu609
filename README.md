@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ehtesham Ahmed a Btech Graduate in Computer Science and Engineering 2018 from SIT(WBUT).
+- 👋 Hi, I’m Ehtesham Ahmed a Btech Graduate in Computer Science and Engineering.
 - 👀 I’m interested in Data Analytics and Python programming.
 - 📫 How to reach me ...
 email = ahmedehtesham609@gmail.com
